@@ -33,9 +33,9 @@ This implementation focuses on **service operations, workflow design, access con
 - **Database:** MySQL (phpMyAdmin)  
 
 <p align="center">
-  <img src="screenshots/xxamp.jpg" width="30%">
-  <img src="screenshots/installed.jpg" width="30%">
-  <img src="screenshots/access.jpg" width="30%">
+  <img src="images/xxamp.jpg" width="30%">
+  <img src="images/installed.jpg" width="30%">
+  <img src="images/access.jpg" width="30%">
 </p>
 
 ---
@@ -53,8 +53,8 @@ Key configuration steps included:
 This setup mirrors how internal Help Desk tools are deployed within small to mid-sized organizations.
 
 <p align="center">
-  <img src="screenshots/user.jpg" width="45%">
-  <img src="screenshots/help.jpg" width="45%">
+  <img src="images/user.jpg" width="45%">
+  <img src="images/help.jpg" width="45%">
 </p>
 
 ---
@@ -89,8 +89,8 @@ Help Topics were configured to support realistic IT service operations.
 Each Help Topic supports ticket routing, prioritization, and assignment to appropriate support teams.
 
 <p align="center">
-  <img src="screenshots/help.jpg" width="45%">
-  <img src="screenshots/ticket.jpg" width="45%">
+  <img src="images/help.jpg" width="45%">
+  <img src="images/ticket.jpg" width="45%">
 </p>
 
 ---
@@ -121,6 +121,3 @@ This project demonstrates how a Help Desk ticketing system can be deployed and c
 
 ---
 
-## Disclaimer
-
-This project was completed in a **controlled lab environment** for educational and portfolio purposes and does not represent a production deployment.
