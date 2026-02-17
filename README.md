@@ -46,10 +46,10 @@ Key configuration steps included:
 This setup mirrors how internal Help Desk tools are deployed within small to mid-sized organizations.
 
 
-   <img src="images/xxamp.jpg" width="900">
-  <img src="images/user.jpg" width="900">
-  <img src="images/access.jpg" width="900">
-  <img src="images/installed.jpg" width="900">
+   <img src="images/xxamp.jpg" width="800">
+  <img src="images/user.jpg" width="800">
+  <img src="images/access.jpg" width="800">
+  <img src="images/installed.jpg" width="800">
 
 
 ---
@@ -66,7 +66,7 @@ After installation, the system was secured using standard best practices:
 
 These steps reduce the risk of unauthorized changes and configuration abuse.
 
-  <img src="images/read.jpg" width="800">
+  <img src="images/read.jpg" width="900">
 
 ---
 
@@ -86,8 +86,8 @@ Help Topics were configured to support realistic IT service operations.
 Each Help Topic supports ticket routing, prioritization, and assignment to appropriate support teams.
 
 
-  <img src="images/help.jpg" width="600">
-  <img src="images/ticket.jpg" width="600">
+  <img src="images/help.jpg" width="800">
+  <img src="images/ticket.jpg" width="800">
 
 
 ---
