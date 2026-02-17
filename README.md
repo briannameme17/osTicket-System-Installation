@@ -31,12 +31,6 @@ This implementation focuses on **service operations, workflow design, access con
   - PHP  
 - **Ticketing Platform:** osTicket  
 - **Database:** MySQL (phpMyAdmin)  
-
-<p align="center">
-  <img src="images/xxamp.jpg" width="45%">
-
-</p>
-
 ---
 
 ## Application Deployment & Configuration
@@ -51,11 +45,12 @@ Key configuration steps included:
 
 This setup mirrors how internal Help Desk tools are deployed within small to mid-sized organizations.
 
-<p align="center">
-  <img src="images/user.jpg" width="45%">
-  <img src="images/access.jpg" width="30%">
-  <img src="images/installed.jpg" width="45%">
-</p>
+
+   <img src="images/xxamp.jpg" width="900">
+  <img src="images/user.jpg" width="900">
+  <img src="images/access.jpg" width="900">
+  <img src="images/installed.jpg" width="900">
+
 
 ---
 
