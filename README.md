@@ -65,9 +65,9 @@ After installation, the system was secured using standard best practices:
 - Confirmed proper client and staff portal access
 
 These steps reduce the risk of unauthorized changes and configuration abuse.
-<p align="center">
-  <img src="images/read.jpg" width="45%">
-</p>
+
+  <img src="images/read.jpg" width="800">
+
 ---
 
 ## Help Desk Workflow Configuration
@@ -85,10 +85,9 @@ Help Topics were configured to support realistic IT service operations.
 
 Each Help Topic supports ticket routing, prioritization, and assignment to appropriate support teams.
 
-<p align="center">
-  <img src="images/help.jpg" width="45%">
-  <img src="images/ticket.jpg" width="45%">
-</p>
+
+  <img src="images/help.jpg" width="600">
+  <img src="images/ticket.jpg" width="600">
 
 
 ---
