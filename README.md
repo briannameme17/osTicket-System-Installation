@@ -54,7 +54,7 @@ This setup mirrors how internal Help Desk tools are deployed within small to mid
 
 <p align="center">
   <img src="images/user.jpg" width="45%">
-  <img src="images/help.jpg" width="45%">
+  
 </p>
 
 ---
@@ -70,7 +70,8 @@ After installation, the system was secured using standard best practices:
 - Confirmed proper client and staff portal access
 
 These steps reduce the risk of unauthorized changes and configuration abuse.
-
+<p align="center">
+  <img src="images/read.jpg" width="45%">
 ---
 
 ## Help Desk Workflow Configuration
@@ -93,18 +94,6 @@ Each Help Topic supports ticket routing, prioritization, and assignment to appro
   <img src="images/ticket.jpg" width="45%">
 </p>
 
----
-
-## Example Support Scenario
-
-**Scenario:**  
-- Organization-wide service outage impacting core business systems  
-- Ticket Category: Business Critical Outage  
-- Priority: High  
-- Assigned Team: IT Support  
-- Source: Client Portal submission  
-
-This demonstrates how osTicket supports incident tracking, escalation, and resolution documentation.
 
 ---
 
