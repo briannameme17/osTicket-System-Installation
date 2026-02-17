@@ -33,9 +33,8 @@ This implementation focuses on **service operations, workflow design, access con
 - **Database:** MySQL (phpMyAdmin)  
 
 <p align="center">
-  <img src="images/xxamp.jpg" width="30%">
-  <img src="images/installed.jpg" width="30%">
-  <img src="images/access.jpg" width="30%">
+  <img src="images/xxamp.jpg" width="45%">
+
 </p>
 
 ---
@@ -54,7 +53,8 @@ This setup mirrors how internal Help Desk tools are deployed within small to mid
 
 <p align="center">
   <img src="images/user.jpg" width="45%">
-  
+  <img src="images/access.jpg" width="30%">
+  <img src="images/installed.jpg" width="45%">
 </p>
 
 ---
@@ -72,6 +72,7 @@ After installation, the system was secured using standard best practices:
 These steps reduce the risk of unauthorized changes and configuration abuse.
 <p align="center">
   <img src="images/read.jpg" width="45%">
+</p>
 ---
 
 ## Help Desk Workflow Configuration
